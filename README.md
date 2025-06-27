@@ -73,7 +73,7 @@ The Cybersecurity Chatbot GUI is a WPF-based desktop application developed in C#
 
 ---
 
-## 🖥️ Running the Application
+## Running the Application
 
 1. **Ensure you are using Visual Studio with .NET Framework 4.8.**
 2. **Build the solution**
